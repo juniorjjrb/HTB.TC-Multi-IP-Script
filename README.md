@@ -1,4 +1,4 @@
-# HTB.TC-Multi-IP-Script-Linux
+# HTB.TC-Multi-IP-Script
 
 El Script se basa en TC y HTB.
 
